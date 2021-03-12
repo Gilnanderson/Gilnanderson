@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gilnanderson
 - 👀 I’m interested in Python, CSS and JavaScript
-- 🌱 I’m currently learning about databse and MySQL
+- 🌱 I’m currently learning about database and MySQL
 - 💞️ I’m looking to collaborate on any project as a junior developer.
 - 📫 How to reach me: https://www.linkedin.com/in/gilnanderson-barrozo-34658422/
 
