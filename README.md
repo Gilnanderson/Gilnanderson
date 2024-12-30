@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gilnanderson
-- 👀 I’m interested in Python and Front-End development.
-- 🌱 I’m currently learning about database integration with Front-End.
-- 💞️ I’m looking to collaborate on any project as a junior developer.
-- 📫 How to reach me: https://www.linkedin.com/in/gilnanderson-barrozo-34658422/
+- 👀 I’m interested in Agile Methodologies, Project management and AI.
+- 🌱 I’m currently learning about Machine Learning and AI.
+- 💞️ I’m looking to collaborate on any project as a project manager.
+- 📫 How to reach me: www.linkedin.com/in/gilnanderson-baruzzo-34658422
 
 <!---
 Gilnanderson/Gilnanderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
